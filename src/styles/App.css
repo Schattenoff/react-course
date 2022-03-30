@@ -1,0 +1,18 @@
+#root {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.App {
+    width: 800px;
+}
+
+.post {
+    display: flex;
+    padding: 15px;
+    border: 2px solid green;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
